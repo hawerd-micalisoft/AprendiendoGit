@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        //Prueba para release 3
+        //Prueba para release 3.2
     }
 
 }
