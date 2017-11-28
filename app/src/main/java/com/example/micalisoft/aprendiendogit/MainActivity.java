@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        // Commit a nuevo branchc
+        // No se a donde esta apuntado este commit.
     }
 
     @Override
