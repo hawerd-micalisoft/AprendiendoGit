@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        // Este commi va para la version3
+        // Acomodando el bug
     }
 
     @Override
