@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        // No se a donde esta apuntado este commit.
+        // Este commi va para la version3
     }
 
     @Override
