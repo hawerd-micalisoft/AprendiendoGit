@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
         // Este commi va para la master
         // Con este commit aseguro que se conservara la version que tiene luis en el repositorio.
         // hawerd debe crear un branch y subir los cambios que tiene.
+        // ya rebase los cambios de hawerd. y ahora este es un commit solo de verificacion.
     }
 
     @Override
