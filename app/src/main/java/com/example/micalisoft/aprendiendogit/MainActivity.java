@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
         // Con este commit aseguro que se conservara la version que tiene luis en el repositorio.
         // hawerd debe crear un branch y subir los cambios que tiene.
         // ya rebase los cambios de hawerd. y ahora este es un commit solo de verificacion.
+        // Este commit es modificando las credenciales de GitHub. pasan de ser las de Luis Fernando a ser la de Hawerd Gonzalez.
     }
 
     @Override
