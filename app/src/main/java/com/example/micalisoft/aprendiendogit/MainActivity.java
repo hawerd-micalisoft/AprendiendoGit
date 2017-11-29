@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        // Este commi va para la version3
+        // Este commi va para la master
     }
 
     @Override
