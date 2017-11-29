@@ -28,7 +28,8 @@ public class MainActivity extends AppCompatActivity {
         });
 
         // Este commi va para la master
-        // Estoy realizando una prueba para saber como voy a rebasar los commit. Se supone que luis jamas tendra estos cambios
+        // Estoy realizando una prueba para saber como voy a rebasar los commit. Se supone que luis jamas tendra estos cambios.
+        // Este es el commit al branch que contiene la nueva version de la aplicacion.
     }
 
     @Override
